@@ -1,0 +1,6 @@
+scraper:
+  - start_year: 2010
+    sport: football
+    country: england
+    tournament: premier-league
+    output_dir: premier-league
